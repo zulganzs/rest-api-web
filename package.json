@@ -12,8 +12,7 @@
     "pm2": "npx pm2 start server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlipBot/Api-Alpis.git"
+    "type": "git"
   },
   "keywords": [
     "restapi",
@@ -22,10 +21,6 @@
   ],
   "author": "zul",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlipBot/Api-Alpis/issues"
-  },
-  "homepage": "https://github.com/AlipBot/Api-Alpis#readme",
   "dependencies": {
     "api-dylux": "^1.7.1",
     "axios": "^0.27.2",
